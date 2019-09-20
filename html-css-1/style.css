@@ -78,7 +78,8 @@ footer {
 .threeBoxes{
     height: 300px;
     width: 300px;
-    background-color: aquamarine
+    background-color: aquamarine;
+    border-radius: 25px;
 
 }
 
